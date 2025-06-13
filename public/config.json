@@ -1,0 +1,373 @@
+{
+  "site": {
+    "logo": "",
+    "title": "Tera Brass",
+    "description": "Tera brass is the brass manufacturing company, eastablished in year 2004, we have tons of experience and globally 5 plants. we also have 60+ cnc machines. we produce brass parts used in precision components in aerospace. our usp is 24/7 plant operates. we work as manufacturing unit and also we have extursion plant. our target market b2b dealers."
+  },
+  "theme": {
+    "id": "creative-purple",
+    "hero": {
+      "layout": "split",
+      "backgroundType": "gradient"
+    },
+    "name": "Creative Purple",
+    "colors": {
+      "text": "#111827",
+      "error": "#ef4444",
+      "muted": "#6b7280",
+      "accent": "#ec4899",
+      "border": "#e5e7eb",
+      "primary": "#7c3aed",
+      "success": "#10b981",
+      "warning": "#f59e0b",
+      "secondary": "#6b7280",
+      "background": "#ffffff"
+    },
+    "effects": {
+      "parallax": true,
+      "gradients": true,
+      "animations": true,
+      "borderRadius": 12,
+      "shadowIntensity": "strong"
+    },
+    "category": "creative",
+    "navigation": {
+      "style": "glass",
+      "position": "top"
+    },
+    "description": "Vibrant and artistic with purple gradients"
+  },
+  "business": {
+    "name": "Tera Brass",
+    "email": "wefb2@kehg.com",
+    "phone": "+91 987989797",
+    "score": 70,
+    "industry": "Manufacturer",
+    "location": "jamnagar, Gujarat, India",
+    "isComplete": false,
+    "description": "Tera brass is the brass manufacturing company, eastablished in year 2004, we have tons of experience and globally 5 plants. we also have 60+ cnc machines. we produce brass parts used in precision components in aerospace. our usp is 24/7 plant operates. we work as manufacturing unit and also we have extursion plant. our target market b2b dealers.",
+    "missingInfo": [
+      "Business name",
+      "Clear industry or sector"
+    ],
+    "suggestions": [
+      "Provide a clear and specific business name",
+      "Clearly define the industry or sector the business operates in",
+      "Expand on the unique value proposition and competitive advantages beyond 24/7 operations",
+      "Highlight key capabilities, certifications, or specializations in the brass manufacturing industry"
+    ],
+    "hasExperience": true,
+    "hasUniqueValue": false,
+    "hasTargetMarket": true,
+    "hasClearActivities": true,
+    "enhancedDescription": "Tera Brass is a leading brass manufacturing company specializing in precision components for the aerospace industry. Established in 2004, the company operates 5 global plants with over 60 CNC machines, providing 24/7 manufacturing capabilities. Tera Brass is a trusted supplier of high-quality brass parts used in critical aerospace applications, with a focus on delivering exceptional service and reliability to its B2B dealer network."
+  },
+  "sections": {
+    "hero": {
+      "layout": "split",
+      "enabled": true,
+      "headline": "Precision Manufacturing Excellence",
+      "primaryCTA": {
+        "link": "#about",
+        "text": "Explore Our Capabilities"
+      },
+      "subheadline": "Tera Brass: Your Trusted Brass Components Supplier",
+      "secondaryCTA": {
+        "link": "#contact",
+        "text": "Contact Us"
+      },
+      "imagePosition": "left",
+      "backgroundImage": "https://images.unsplash.com/photo-1666618090858-fbcee636bd3e"
+    },
+    "about": {
+      "image": "",
+      "stats": [
+        {
+          "label": "Years of Experience",
+          "number": "18+"
+        },
+        {
+          "label": "Global Production Facilities",
+          "number": "5"
+        },
+        {
+          "label": "CNC Machines",
+          "number": "60+"
+        },
+        {
+          "label": "Plant Operations",
+          "number": "24/7"
+        }
+      ],
+      "title": "About Tera Brass",
+      "enabled": true,
+      "description": "Tera Brass is a leading brass manufacturing company, established in 2004 with a wealth of experience and five global production facilities. Specializing in the production of precision brass components for the aerospace industry, we operate 60+ CNC machines and run our plants 24/7 to ensure uninterrupted supply and consistent quality. As both a manufacturing unit and an extrusion plant, we cater to a diverse range of B2B dealers, delivering innovative solutions tailored to their specific needs."
+    },
+    "features": {
+      "items": [
+        {
+          "icon": "tool",
+          "title": "Precision Manufacturing",
+          "description": "Our state-of-the-art CNC machines and extrusion plant ensure precise, high-quality brass components for your needs."
+        },
+        {
+          "icon": "clock",
+          "title": "Uninterrupted Production",
+          "description": "With our 24/7 plant operations, we guarantee a reliable and consistent supply of brass parts to meet your deadlines."
+        },
+        {
+          "icon": "globe",
+          "title": "Global Reach",
+          "description": "Tera Brass has a worldwide presence, with five production facilities strategically located to serve customers globally."
+        },
+        {
+          "icon": "award",
+          "title": "Industry Expertise",
+          "description": "Our team of experienced professionals leverages decades of knowledge in the brass manufacturing industry."
+        }
+      ],
+      "title": "Our Key Features",
+      "enabled": true
+    },
+    "products": {
+      "enabled": true
+    },
+    "services": {
+      "items": [
+        {
+          "id": "service-1684758000000",
+          "icon": "Cpu",
+          "image": "https://images.unsplash.com/photo-1517476417505-41343cd4b6db?auto=format&fit=crop&q=80&w=600",
+          "title": "Rapid Prototyping and Custom Manufacturing",
+          "features": [
+            "Fast turnaround on custom brass parts",
+            "Precision manufacturing with tight tolerances",
+            "In-house design and engineering support",
+            "Cost-effective solutions for small-batch production",
+            "Dedicated project management"
+          ],
+          "description": "Leverage our state-of-the-art CNC machines and brass expertise to quickly create custom brass components and prototypes for your aerospace projects. Our rapid turnaround and attention to precision ensure you get high-quality parts on time, every time."
+        },
+        {
+          "id": "service-1684758060000",
+          "icon": "Layers",
+          "image": "https://images.unsplash.com/photo-1522199755839-a2bacb67c546?auto=format&fit=crop&q=80&w=600",
+          "title": "Mass Manufacturing for Long-Term Clients",
+          "features": [
+            "Dedicated 24/7 production lines",
+            "Guaranteed capacity and supply chain reliability",
+            "Competitive pricing through economies of scale",
+            "Seamless integration with client's operations",
+            "Proactive quality control and continuous improvement"
+          ],
+          "description": "For high-volume aerospace clients, we'll set up dedicated 24/7 production lines with our CNC machines to deliver large quantities of brass components at the lowest possible cost. Our streamlined processes and global footprint ensure reliability and scalability to meet your growing needs."
+        },
+        {
+          "id": "service-1684758120000",
+          "icon": "Thermometer",
+          "image": "https://images.unsplash.com/photo-1554290712-e640351074bd?auto=format&fit=crop&q=80&w=600",
+          "title": "Brass Extrusion and Value-Added Processing",
+          "features": [
+            "Seamless integration of extrusion and machining",
+            "Specialized brass alloy formulations",
+            "Advanced quality control and testing",
+            "Strict adherence to aerospace standards",
+            "Responsive project management and customer support"
+          ],
+          "description": "In addition to precision CNC manufacturing, Tera Brass offers comprehensive brass extrusion and value-added processing services. From custom profiles to complex machined components, we can handle your entire brass product lifecycle with unparalleled quality and efficiency."
+        }
+      ],
+      "title": "Our Services",
+      "enabled": true
+    },
+    "whyChooseUs": {
+      "items": [
+        {
+          "icon": "award",
+          "title": "Industry Experience",
+          "description": "Years of experience in delivering high-quality solutions to our clients."
+        },
+        {
+          "icon": "target",
+          "title": "Customer Focus",
+          "description": "We prioritize our customers' needs and work closely with them to achieve their goals."
+        },
+        {
+          "icon": "settings",
+          "title": "Advanced Technology",
+          "description": "We use cutting-edge technology and modern equipment to ensure superior results."
+        },
+        {
+          "icon": "handshake",
+          "title": "Reliable Partnership",
+          "description": "We build long-term relationships with our clients based on trust and reliability."
+        }
+      ],
+      "title": "Why Choose Tera Brass",
+      "enabled": true
+    },
+    "testimonials": {
+      "items": [
+        {
+          "text": "Tera Brass has been a reliable and trusted partner for our aerospace component needs. Their commitment to quality and on-time delivery has been instrumental in the success of our projects.",
+          "author": "Priya Sharma",
+          "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&crop=face",
+          "company": "Aerospace Innovations",
+          "position": "Procurement Manager"
+        },
+        {
+          "text": "Working with Tera Brass has been a seamless experience. Their attention to detail, innovative solutions, and responsive customer service make them a valuable asset to our supply chain.",
+          "author": "Rajesh Patel",
+          "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&crop=face",
+          "company": "Precision Parts Manufacturers",
+          "position": "Production Director"
+        }
+      ],
+      "title": "What Our Clients Say",
+      "enabled": true
+    }
+  },
+  "navigation": {
+    "items": [
+      {
+        "link": "#hero",
+        "text": "Home"
+      },
+      {
+        "link": "#about",
+        "text": "About"
+      },
+      {
+        "link": "#features",
+        "text": "Features"
+      },
+      {
+        "link": "#contact",
+        "text": "Contact"
+      },
+      {
+        "link": "#request-quote",
+        "text": "Request Quote"
+      }
+    ],
+    "style": "glass"
+  },
+  "sectionsOrder": [
+    {
+      "id": "process-1749666973626",
+      "data": {
+        "steps": [
+          {
+            "step": 1,
+            "title": "Customized Product Design",
+            "description": "Our team of experienced designers works closely with clients to understand their unique requirements and develop custom brass product designs that meet their specific needs. We leverage advanced CAD software and collaborate with clients to iterate on the design until it is perfect."
+          },
+          {
+            "step": 2,
+            "title": "Precision Manufacturing",
+            "description": "Once the design is finalized, we utilize our state-of-the-art manufacturing facilities and skilled craftsmen to produce the brass products with the utmost precision and attention to detail. Our advanced machinery and quality control processes ensure consistent, high-quality output."
+          },
+          {
+            "step": 3,
+            "title": "Rigorous Quality Assurance",
+            "description": "Before shipping, each brass product undergoes a thorough quality inspection to identify and address any defects or issues. Our quality assurance team performs comprehensive testing to validate that the product meets all required specifications and customer expectations."
+          },
+          {
+            "step": 4,
+            "title": "Reliable Delivery",
+            "description": "We prioritize on-time delivery and work closely with our logistics partners to ensure the safe and timely shipment of the brass products to our clients. Our dedicated customer service team provides regular updates and support throughout the delivery process."
+          }
+        ],
+        "title": "Our Process",
+        "enabled": true,
+        "subtitle": "How we deliver exceptional results"
+      },
+      "type": "process",
+      "title": "Our Process",
+      "enabled": true,
+      "showInNavbar": false
+    },
+    {
+      "id": "faq-1749666989060",
+      "data": {
+        "items": [
+          {
+            "answer": "Tera Brass is a leading manufacturer of a wide range of brass products, including brass fittings, valves, decorative hardware, and custom brass components. We have the capability to produce a variety of brass items to meet the diverse needs of our customers.",
+            "question": "What types of brass products do you manufacture?"
+          },
+          {
+            "answer": "Our manufacturing process involves precision brass casting, machining, and finishing techniques to ensure high-quality products. We utilize state-of-the-art equipment and follow strict quality control measures throughout the production cycle. Our experienced team of engineers and technicians work diligently to maintain efficient and reliable operations.",
+            "question": "What is your production process like?"
+          },
+          {
+            "answer": "Absolutely! Tera Brass specializes in custom brass manufacturing. We work closely with our clients to understand their unique requirements and design specifications, and then develop tailored solutions to meet their needs. Our flexibility and attention to detail allow us to produce custom brass components of any size or complexity.",
+            "question": "Can you provide custom brass manufacturing services?"
+          },
+          {
+            "answer": "Quality is our top priority at Tera Brass. We have implemented a comprehensive quality management system that includes rigorous testing and inspection at every stage of the manufacturing process. Our in-house quality control team closely monitors production to ensure compliance with industry standards and customer specifications. We are also ISO 9001 certified, demonstrating our commitment to delivering consistent, high-quality brass products.",
+            "question": "How do you ensure the quality of your brass products?"
+          },
+          {
+            "answer": "Our lead times and pricing can vary depending on the complexity of the project, the quantity of products required, and the materials used. We strive to provide competitive and transparent pricing while maintaining our high-quality standards. Our sales team will work with you to provide a detailed quote and estimated delivery timeline based on your specific requirements. We are committed to offering reliable and cost-effective brass manufacturing solutions.",
+            "question": "What are your lead times and pricing for brass manufacturing services?"
+          },
+          {
+            "answer": "Yes, we understand the importance of providing excellent customer support. Our team is dedicated to ensuring your satisfaction with our products and services. We offer technical support, product maintenance guidance, and responsive after-sales assistance. If you have any questions or concerns, please don't hesitate to reach out to our customer service team, and we'll be happy to address your needs.",
+            "question": "Do you offer any support or after-sales services?"
+          }
+        ],
+        "title": "Frequently Asked Questions",
+        "enabled": true,
+        "subtitle": "Common questions about our manufacturing services"
+      },
+      "type": "faq",
+      "title": "Frequently Asked Questions",
+      "enabled": true,
+      "showInNavbar": false
+    },
+    {
+      "id": "infrastructure-1749667021515",
+      "data": {
+        "items": [
+          {
+            "title": "Brass Casting Facility",
+            "features": [
+              "10,000 sq ft production area",
+              "Automated brass casting machines with +/- 0.1mm tolerance",
+              "Specialized temperature control systems for precise melting and cooling",
+              "Dedicated quality control laboratory"
+            ],
+            "description": "Our state-of-the-art brass casting facility is equipped with high-precision casting equipment and cutting-edge temperature control systems. This facility allows us to produce a wide range of brass components with exceptional quality and consistency."
+          },
+          {
+            "title": "Machining and Finishing Center",
+            "features": [
+              "20,000 sq ft production area",
+              "Multiple CNC lathes, mills, and grinding machines",
+              "Automated deburring and polishing systems",
+              "Dedicated inspection and metrology lab"
+            ],
+            "description": "The Machining and Finishing Center is equipped with advanced CNC machines and specialized finishing equipment. This facility enables us to perform complex machining operations and apply high-quality finishes to our brass products."
+          },
+          {
+            "title": "Warehouse and Logistics Hub",
+            "features": [
+              "50,000 sq ft storage capacity",
+              "Automated storage and retrieval systems",
+              "Temperature and humidity-controlled storage areas",
+              "Dedicated shipping and receiving docks"
+            ],
+            "description": "Our centralized warehouse and logistics hub ensures efficient storage, handling, and distribution of our brass products. This facility is designed to maintain optimal environmental conditions and facilitate seamless supply chain operations."
+          }
+        ],
+        "title": "Infrastructure & Facilities",
+        "enabled": true,
+        "subtitle": "Modern facilities supporting our operations"
+      },
+      "type": "infrastructure",
+      "title": "Infrastructure & Facilities",
+      "enabled": true,
+      "showInNavbar": false
+    }
+  ]
+}

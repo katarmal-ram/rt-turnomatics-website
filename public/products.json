@@ -1,0 +1,113 @@
+{
+  "featured": [],
+  "categories": [
+    {
+      "id": "category-1698326400",
+      "name": "Brass Fasteners",
+      "image": "https://images.unsplash.com/photo-1563362303-1b6e8f6d6a49?auto=format&fit=crop&q=80&w=600",
+      "products": [
+        {
+          "id": "product-1698326401",
+          "name": "Brass Hex Nuts",
+          "image": "https://images.unsplash.com/photo-1581091359751-9e2d2a7e1d3d?auto=format&fit=crop&q=80&w=600",
+          "description": "Durable brass hex nuts suitable for various automotive and aerospace assemblies.",
+          "applications": [
+            "Automotive chassis",
+            "Aerospace structural components"
+          ],
+          "specifications": [
+            "Standard sizes from M4 to M20",
+            "Corrosion-resistant finish"
+          ]
+        },
+        {
+          "id": "product-1698326402",
+          "name": "Brass Bolts",
+          "image": "https://images.unsplash.com/photo-1581091359751-9e2d2a7e1d3d?auto=format&fit=crop&q=80&w=600",
+          "description": "Precision-engineered brass bolts ideal for high-stress environments in automotive and aerospace sectors.",
+          "applications": [
+            "Engine components",
+            "Aircraft fittings"
+          ],
+          "specifications": [
+            "Metric and imperial sizes",
+            "High tensile strength"
+          ]
+        }
+      ],
+      "description": "High-quality brass fasteners designed for aerospace and automotive applications."
+    },
+    {
+      "id": "category-1698326403",
+      "name": "Brass Electrical Connectors",
+      "image": "https://images.unsplash.com/photo-1555119875-3fa6cbd4e7b1?auto=format&fit=crop&q=80&w=600",
+      "products": [
+        {
+          "id": "product-1698326404",
+          "name": "Brass Spark Plugs",
+          "image": "https://images.unsplash.com/photo-1579680217043-b82b9fcbdaef?auto=format&fit=crop&q=80&w=600",
+          "description": "High-performance brass spark plugs designed for efficiency and durability in combustion engines.",
+          "applications": [
+            "Gasoline engines",
+            "Aerospace propulsion systems"
+          ],
+          "specifications": [
+            "Heat range: 6 to 10",
+            "Thread size: M14"
+          ]
+        },
+        {
+          "id": "product-1698326405",
+          "name": "Brass Terminals",
+          "image": "https://images.unsplash.com/photo-1563606712008-3a25108e8d54?auto=format&fit=crop&q=80&w=600",
+          "description": "Durable brass terminals for reliable electrical connections in various automotive applications.",
+          "applications": [
+            "Wiring harnesses",
+            "Control systems"
+          ],
+          "specifications": [
+            "Standard and custom sizes",
+            "Solder or crimp options available"
+          ]
+        }
+      ],
+      "description": "Reliable brass electrical connectors for aerospace and automotive electrical systems."
+    },
+    {
+      "id": "category-1698326406",
+      "name": "Brass Fittings",
+      "image": "https://images.unsplash.com/photo-1602602461257-6e12f9c6f0e2?auto=format&fit=crop&q=80&w=600",
+      "products": [
+        {
+          "id": "product-1698326407",
+          "name": "Brass Couplings",
+          "image": "https://images.unsplash.com/photo-1581091359751-9e2d2a7e1d3d?auto=format&fit=crop&q=80&w=600",
+          "description": "Versatile brass couplings for connecting pipes and tubes in automotive and aerospace systems.",
+          "applications": [
+            "Fluid transfer systems",
+            "Hydraulic systems"
+          ],
+          "specifications": [
+            "1/4\" to 2\" sizes",
+            "Pressure rating: up to 300 PSI"
+          ]
+        },
+        {
+          "id": "product-1698326408",
+          "name": "Brass Elbows",
+          "image": "https://images.unsplash.com/photo-1549691096-5b1c9f35a3fb?auto=format&fit=crop&q=80&w=600",
+          "description": "Durable brass elbows for changing the direction of piping in automotive and aerospace applications.",
+          "applications": [
+            "Exhaust systems",
+            "Fuel systems"
+          ],
+          "specifications": [
+            "90-degree and 45-degree angles",
+            "Standard and custom dimensions"
+          ]
+        }
+      ],
+      "description": "Precision brass fittings engineered for high performance in automotive and aerospace applications."
+    }
+  ]
+}
