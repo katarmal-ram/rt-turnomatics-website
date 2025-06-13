@@ -1,184 +1,140 @@
 {
   "site": {
     "logo": "",
-    "title": "Tera Brass",
-    "description": "Tera brass is the brass manufacturing company, eastablished in year 2004, we have tons of experience and globally 5 plants. we also have 60+ cnc machines. we produce brass parts used in precision components in aerospace. our usp is 24/7 plant operates. we work as manufacturing unit and also we have extursion plant. our target market b2b dealers."
+    "title": "RT Turnomatics",
+    "description": "We at rt turnomatics produce various precision parts which are manufactured with the help of cnc machines, we produce customised parts according to the requirements and also we have job shop layout, we also produce various components used in automotive sectors, neumatic parts, hydrolic fittings, sanitory parts, electric parts, sensor parts which are made of brass, steel, stainless steel, aluminum and copper also. we have 25+ Years of Engineering Excellence. located in jamnagar brass city."
   },
   "theme": {
-    "id": "creative-purple",
+    "id": "tech-dark",
     "hero": {
-      "layout": "split",
-      "backgroundType": "gradient"
+      "layout": "video",
+      "backgroundType": "image"
     },
-    "name": "Creative Purple",
+    "name": "Tech Dark",
     "colors": {
-      "text": "#111827",
+      "text": "#f8fafc",
       "error": "#ef4444",
-      "muted": "#6b7280",
-      "accent": "#ec4899",
-      "border": "#e5e7eb",
-      "primary": "#7c3aed",
+      "muted": "#64748b",
+      "accent": "#10b981",
+      "border": "#334155",
+      "primary": "#06b6d4",
       "success": "#10b981",
       "warning": "#f59e0b",
-      "secondary": "#6b7280",
-      "background": "#ffffff"
+      "secondary": "#64748b",
+      "background": "#0f172a"
     },
     "effects": {
       "parallax": true,
-      "gradients": true,
+      "gradients": false,
       "animations": true,
-      "borderRadius": 12,
+      "borderRadius": 6,
       "shadowIntensity": "strong"
     },
-    "category": "creative",
+    "category": "tech",
     "navigation": {
-      "style": "glass",
+      "style": "transparent",
       "position": "top"
     },
-    "description": "Vibrant and artistic with purple gradients"
+    "description": "Sleek dark theme perfect for tech companies"
   },
   "business": {
-    "name": "Tera Brass",
-    "email": "wefb2@kehg.com",
-    "phone": "+91 987989797",
+    "name": "RT Turnomatics",
+    "email": "rtturnomatics@gmaill.com",
+    "phone": "+91 7898949819",
     "score": 70,
     "industry": "Manufacturer",
-    "location": "jamnagar, Gujarat, India",
+    "location": "Phase 3, Jamnagar, Gujrat, India",
     "isComplete": false,
-    "description": "Tera brass is the brass manufacturing company, eastablished in year 2004, we have tons of experience and globally 5 plants. we also have 60+ cnc machines. we produce brass parts used in precision components in aerospace. our usp is 24/7 plant operates. we work as manufacturing unit and also we have extursion plant. our target market b2b dealers.",
+    "description": "We at rt turnomatics produce various precision parts which are manufactured with the help of cnc machines, we produce customised parts according to the requirements and also we have job shop layout, we also produce various components used in automotive sectors, neumatic parts, hydrolic fittings, sanitory parts, electric parts, sensor parts which are made of brass, steel, stainless steel, aluminum and copper also. we have 25+ Years of Engineering Excellence. located in jamnagar brass city.",
     "missingInfo": [
       "Business name",
-      "Clear industry or sector"
+      "Industry",
+      "Precise location details",
+      "Contact information (phone, email, address)"
     ],
     "suggestions": [
-      "Provide a clear and specific business name",
-      "Clearly define the industry or sector the business operates in",
-      "Expand on the unique value proposition and competitive advantages beyond 24/7 operations",
-      "Highlight key capabilities, certifications, or specializations in the brass manufacturing industry"
+      "Provide a clear and concise business name that represents the company's offerings",
+      "Specify the industry or industries the company serves to establish its expertise",
+      "Include the exact location of the business, including the city and state, to build trust and credibility",
+      "Add prominent contact information, such as a phone number, email address, and physical address, to enable easy communication with potential customers"
     ],
     "hasExperience": true,
-    "hasUniqueValue": false,
+    "hasUniqueValue": true,
     "hasTargetMarket": true,
     "hasClearActivities": true,
-    "enhancedDescription": "Tera Brass is a leading brass manufacturing company specializing in precision components for the aerospace industry. Established in 2004, the company operates 5 global plants with over 60 CNC machines, providing 24/7 manufacturing capabilities. Tera Brass is a trusted supplier of high-quality brass parts used in critical aerospace applications, with a focus on delivering exceptional service and reliability to its B2B dealer network."
+    "enhancedDescription": "RT Turnomatics is a precision parts manufacturer with over 25 years of engineering excellence. We specialize in producing customized components for the automotive, pneumatic, hydraulic, sanitary, electric, and sensor industries, using materials like brass, steel, stainless steel, aluminum, and copper. Our state-of-the-art CNC machines and job shop layout allow us to meet the unique requirements of our clients with exceptional quality and efficiency. Located in the brass city of Jamnagar, we are a trusted partner for businesses seeking reliable and innovative precision parts solutions."
   },
   "sections": {
     "hero": {
-      "layout": "split",
+      "layout": "video",
       "enabled": true,
       "headline": "Precision Manufacturing Excellence",
+      "videoUrl": "https://tsvtgoljjzctgdbvvojm.supabase.co/storage/v1/object/public/project-assets//authomatic-lathe-drill-the-thread-and-rounds-the-edges-of-the-part-SBV-327456926-preview%20(1).mp4",
       "primaryCTA": {
-        "link": "#about",
-        "text": "Explore Our Capabilities"
-      },
-      "subheadline": "Tera Brass: Your Trusted Brass Components Supplier",
-      "secondaryCTA": {
         "link": "#contact",
-        "text": "Contact Us"
+        "text": "Get a Quote"
       },
-      "imagePosition": "left",
-      "backgroundImage": "https://images.unsplash.com/photo-1666618090858-fbcee636bd3e"
+      "subheadline": "RT Turnomatics: Crafting Custom Parts with Unparalleled Expertise",
+      "secondaryCTA": {
+        "link": "#about",
+        "text": "Learn More"
+      },
+      "backgroundImage": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5"
     },
     "about": {
       "image": "",
       "stats": [
         {
-          "label": "Years of Experience",
-          "number": "18+"
+          "label": "Years of Engineering Excellence",
+          "number": "25+"
         },
         {
-          "label": "Global Production Facilities",
+          "label": "Satisfied Clients",
+          "number": "100+"
+        },
+        {
+          "label": "Custom Parts Produced",
+          "number": "1000+"
+        },
+        {
+          "label": "Material Specialties",
           "number": "5"
-        },
-        {
-          "label": "CNC Machines",
-          "number": "60+"
-        },
-        {
-          "label": "Plant Operations",
-          "number": "24/7"
         }
       ],
-      "title": "About Tera Brass",
+      "title": "About RT Turnomatics",
       "enabled": true,
-      "description": "Tera Brass is a leading brass manufacturing company, established in 2004 with a wealth of experience and five global production facilities. Specializing in the production of precision brass components for the aerospace industry, we operate 60+ CNC machines and run our plants 24/7 to ensure uninterrupted supply and consistent quality. As both a manufacturing unit and an extrusion plant, we cater to a diverse range of B2B dealers, delivering innovative solutions tailored to their specific needs."
+      "description": "RT Turnomatics is a leading manufacturer of precision parts, serving diverse industries with our state-of-the-art CNC machining capabilities. For over 25 years, we have been delivering customized solutions to our clients, specializing in the production of automotive components, pneumatic parts, hydraulic fittings, sanitary parts, electrical components, and sensor parts. Our commitment to engineering excellence and our diverse material expertise in brass, steel, stainless steel, aluminum, and copper have made us a trusted partner for businesses across the region."
     },
     "features": {
       "items": [
         {
           "icon": "tool",
-          "title": "Precision Manufacturing",
-          "description": "Our state-of-the-art CNC machines and extrusion plant ensure precise, high-quality brass components for your needs."
+          "title": "State-of-the-Art CNC Machining",
+          "description": "Our advanced CNC machining capabilities allow us to produce parts with unparalleled precision and efficiency."
         },
         {
-          "icon": "clock",
-          "title": "Uninterrupted Production",
-          "description": "With our 24/7 plant operations, we guarantee a reliable and consistent supply of brass parts to meet your deadlines."
-        },
-        {
-          "icon": "globe",
-          "title": "Global Reach",
-          "description": "Tera Brass has a worldwide presence, with five production facilities strategically located to serve customers globally."
+          "icon": "users",
+          "title": "Customized Solutions",
+          "description": "We work closely with our clients to understand their unique requirements and deliver tailored solutions to meet their needs."
         },
         {
           "icon": "award",
-          "title": "Industry Expertise",
-          "description": "Our team of experienced professionals leverages decades of knowledge in the brass manufacturing industry."
+          "title": "Engineering Excellence",
+          "description": "With over 25 years of experience, our team of skilled engineers leverages their expertise to ensure the highest quality standards."
+        },
+        {
+          "icon": "target",
+          "title": "Diverse Material Expertise",
+          "description": "We work with a wide range of materials, including brass, steel, stainless steel, aluminum, and copper, to meet the diverse needs of our clients."
         }
       ],
       "title": "Our Key Features",
       "enabled": true
     },
     "products": {
-      "enabled": true
-    },
-    "services": {
-      "items": [
-        {
-          "id": "service-1684758000000",
-          "icon": "Cpu",
-          "image": "https://images.unsplash.com/photo-1517476417505-41343cd4b6db?auto=format&fit=crop&q=80&w=600",
-          "title": "Rapid Prototyping and Custom Manufacturing",
-          "features": [
-            "Fast turnaround on custom brass parts",
-            "Precision manufacturing with tight tolerances",
-            "In-house design and engineering support",
-            "Cost-effective solutions for small-batch production",
-            "Dedicated project management"
-          ],
-          "description": "Leverage our state-of-the-art CNC machines and brass expertise to quickly create custom brass components and prototypes for your aerospace projects. Our rapid turnaround and attention to precision ensure you get high-quality parts on time, every time."
-        },
-        {
-          "id": "service-1684758060000",
-          "icon": "Layers",
-          "image": "https://images.unsplash.com/photo-1522199755839-a2bacb67c546?auto=format&fit=crop&q=80&w=600",
-          "title": "Mass Manufacturing for Long-Term Clients",
-          "features": [
-            "Dedicated 24/7 production lines",
-            "Guaranteed capacity and supply chain reliability",
-            "Competitive pricing through economies of scale",
-            "Seamless integration with client's operations",
-            "Proactive quality control and continuous improvement"
-          ],
-          "description": "For high-volume aerospace clients, we'll set up dedicated 24/7 production lines with our CNC machines to deliver large quantities of brass components at the lowest possible cost. Our streamlined processes and global footprint ensure reliability and scalability to meet your growing needs."
-        },
-        {
-          "id": "service-1684758120000",
-          "icon": "Thermometer",
-          "image": "https://images.unsplash.com/photo-1554290712-e640351074bd?auto=format&fit=crop&q=80&w=600",
-          "title": "Brass Extrusion and Value-Added Processing",
-          "features": [
-            "Seamless integration of extrusion and machining",
-            "Specialized brass alloy formulations",
-            "Advanced quality control and testing",
-            "Strict adherence to aerospace standards",
-            "Responsive project management and customer support"
-          ],
-          "description": "In addition to precision CNC manufacturing, Tera Brass offers comprehensive brass extrusion and value-added processing services. From custom profiles to complex machined components, we can handle your entire brass product lifecycle with unparalleled quality and efficiency."
-        }
-      ],
-      "title": "Our Services",
-      "enabled": true
+      "title": "Our Products",
+      "enabled": true,
+      "subtitle": "Explore our range of high-quality precision parts"
     },
     "whyChooseUs": {
       "items": [
@@ -203,24 +159,24 @@
           "description": "We build long-term relationships with our clients based on trust and reliability."
         }
       ],
-      "title": "Why Choose Tera Brass",
+      "title": "Why Choose RT Turnomatics",
       "enabled": true
     },
     "testimonials": {
       "items": [
         {
-          "text": "Tera Brass has been a reliable and trusted partner for our aerospace component needs. Their commitment to quality and on-time delivery has been instrumental in the success of our projects.",
-          "author": "Priya Sharma",
-          "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&crop=face",
-          "company": "Aerospace Innovations",
-          "position": "Procurement Manager"
-        },
-        {
-          "text": "Working with Tera Brass has been a seamless experience. Their attention to detail, innovative solutions, and responsive customer service make them a valuable asset to our supply chain.",
+          "text": "RT Turnomatics has been a reliable and trusted partner for our precision parts manufacturing needs. Their attention to detail and commitment to quality has been instrumental in the success of our projects.",
           "author": "Rajesh Patel",
           "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&crop=face",
-          "company": "Precision Parts Manufacturers",
-          "position": "Production Director"
+          "company": "Automotive Innovations",
+          "position": "Production Manager"
+        },
+        {
+          "text": "We have been working with RT Turnomatics for several years, and their responsiveness, flexibility, and technical expertise have consistently exceeded our expectations. They are a true partner in our success.",
+          "author": "Neha Sharma",
+          "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&crop=face",
+          "company": "Hydraulic Solutions",
+          "position": "Supply Chain Coordinator"
         }
       ],
       "title": "What Our Clients Say",
@@ -238,6 +194,10 @@
         "text": "About"
       },
       {
+        "link": "#products",
+        "text": "Products"
+      },
+      {
         "link": "#features",
         "text": "Features"
       },
@@ -250,75 +210,76 @@
         "text": "Request Quote"
       }
     ],
-    "style": "glass"
+    "style": "transparent"
   },
   "sectionsOrder": [
     {
-      "id": "process-1749666973626",
+      "id": "process-1749798637645",
       "data": {
         "steps": [
           {
             "step": 1,
-            "title": "Customized Product Design",
-            "description": "Our team of experienced designers works closely with clients to understand their unique requirements and develop custom brass product designs that meet their specific needs. We leverage advanced CAD software and collaborate with clients to iterate on the design until it is perfect."
+            "title": "Design and Engineering",
+            "description": "Our experienced team of engineers and designers work closely with customers to understand their requirements and specifications. We use the latest CAD software to develop detailed technical drawings and prototypes to ensure the product meets all standards and expectations."
           },
           {
             "step": 2,
-            "title": "Precision Manufacturing",
-            "description": "Once the design is finalized, we utilize our state-of-the-art manufacturing facilities and skilled craftsmen to produce the brass products with the utmost precision and attention to detail. Our advanced machinery and quality control processes ensure consistent, high-quality output."
+            "title": "Production Planning",
+            "description": "Once the design is finalized, we develop a comprehensive production plan that outlines the manufacturing process, resource requirements, and quality control measures. This allows us to optimize efficiency, minimize waste, and deliver products on time and within budget."
           },
           {
             "step": 3,
-            "title": "Rigorous Quality Assurance",
-            "description": "Before shipping, each brass product undergoes a thorough quality inspection to identify and address any defects or issues. Our quality assurance team performs comprehensive testing to validate that the product meets all required specifications and customer expectations."
+            "title": "Precision Manufacturing",
+            "description": "Our state-of-the-art manufacturing facility is equipped with the latest CNC machines, robotics, and automation technologies. We use strict quality control processes and continuous improvement methodologies to ensure every component is produced to the highest standards of accuracy and consistency."
           },
           {
             "step": 4,
-            "title": "Reliable Delivery",
-            "description": "We prioritize on-time delivery and work closely with our logistics partners to ensure the safe and timely shipment of the brass products to our clients. Our dedicated customer service team provides regular updates and support throughout the delivery process."
+            "title": "Rigorous Testing",
+            "description": "Before shipping, each product undergoes a series of rigorous testing procedures, including dimensional checks, functional tests, and environmental simulations. This ensures that the final product meets or exceeds all performance and safety requirements."
+          },
+          {
+            "step": 5,
+            "title": "Dedicated Customer Support",
+            "description": "Our commitment to customer satisfaction doesn't end with the delivery of the product. We provide comprehensive after-sales support, including technical assistance, maintenance services, and customized training programs to ensure our customers can maximize the value and longevity of their investment."
           }
         ],
-        "title": "Our Process",
+        "title": "Our Manufacturing Process",
         "enabled": true,
-        "subtitle": "How we deliver exceptional results"
+        "subtitle": "How we deliver exceptional quality products"
       },
       "type": "process",
-      "title": "Our Process",
+      "title": "Our Manufacturing Process",
       "enabled": true,
       "showInNavbar": false
     },
     {
-      "id": "faq-1749666989060",
+      "id": "faq-1749798693340",
       "data": {
         "items": [
           {
-            "answer": "Tera Brass is a leading manufacturer of a wide range of brass products, including brass fittings, valves, decorative hardware, and custom brass components. We have the capability to produce a variety of brass items to meet the diverse needs of our customers.",
-            "question": "What types of brass products do you manufacture?"
+            "answer": "RT Turnomatics is a leading manufacturer of industrial machinery and equipment. Our product line includes a wide range of specialized turnomatic machines used for various manufacturing and assembly processes. This includes automated turning machines, milling machines, and other precision engineering equipment.",
+            "question": "What types of products does RT Turnomatics manufacture?"
           },
           {
-            "answer": "Our manufacturing process involves precision brass casting, machining, and finishing techniques to ensure high-quality products. We utilize state-of-the-art equipment and follow strict quality control measures throughout the production cycle. Our experienced team of engineers and technicians work diligently to maintain efficient and reliable operations.",
-            "question": "What is your production process like?"
+            "answer": "To request a quote, you can fill out the contact form on our website with details about the specific machinery or equipment you are interested in. Our sales team will review your request and provide a personalized quote based on your requirements, such as the model, configuration, and any customizations needed. You can also call our customer service line, and one of our representatives will be happy to assist you with the quoting process.",
+            "question": "How can I get a quote for your products?"
           },
           {
-            "answer": "Absolutely! Tera Brass specializes in custom brass manufacturing. We work closely with our clients to understand their unique requirements and design specifications, and then develop tailored solutions to meet their needs. Our flexibility and attention to detail allow us to produce custom brass components of any size or complexity.",
-            "question": "Can you provide custom brass manufacturing services?"
+            "answer": "The lead time for delivering our products can vary depending on the complexity of the machinery, the customization required, and our current production schedule. On average, we strive to deliver standard turnomatic machines within 4-6 weeks from the time the order is placed. For more customized or specialized equipment, the lead time may be 8-12 weeks. Our sales team will provide you with a specific delivery timeline when you place your order.",
+            "question": "What is the typical lead time for delivering your products?"
           },
           {
-            "answer": "Quality is our top priority at Tera Brass. We have implemented a comprehensive quality management system that includes rigorous testing and inspection at every stage of the manufacturing process. Our in-house quality control team closely monitors production to ensure compliance with industry standards and customer specifications. We are also ISO 9001 certified, demonstrating our commitment to delivering consistent, high-quality brass products.",
-            "question": "How do you ensure the quality of your brass products?"
+            "answer": "Yes, we provide comprehensive support services to ensure your RT Turnomatics equipment is properly installed and maintained. Our team of experienced technicians can assist with the installation and initial setup of your machines at your facility. We also offer ongoing technical support, including remote troubleshooting, maintenance guidance, and repair services. Additionally, we provide training for your operators to ensure they can effectively utilize the full capabilities of our equipment.",
+            "question": "Do you offer any installation or technical support services?"
           },
           {
-            "answer": "Our lead times and pricing can vary depending on the complexity of the project, the quantity of products required, and the materials used. We strive to provide competitive and transparent pricing while maintaining our high-quality standards. Our sales team will work with you to provide a detailed quote and estimated delivery timeline based on your specific requirements. We are committed to offering reliable and cost-effective brass manufacturing solutions.",
-            "question": "What are your lead times and pricing for brass manufacturing services?"
-          },
-          {
-            "answer": "Yes, we understand the importance of providing excellent customer support. Our team is dedicated to ensuring your satisfaction with our products and services. We offer technical support, product maintenance guidance, and responsive after-sales assistance. If you have any questions or concerns, please don't hesitate to reach out to our customer service team, and we'll be happy to address your needs.",
-            "question": "Do you offer any support or after-sales services?"
+            "answer": "All RT Turnomatics products come with a standard 1-year warranty covering parts and labor. This warranty covers any defects in materials or workmanship that may arise during normal use of the equipment. If any issues occur within the warranty period, our service team will work to quickly diagnose and resolve the problem, either through remote support or on-site repairs. Extended warranty options are also available for purchase, providing additional coverage for longer periods.",
+            "question": "What is your warranty coverage for your products?"
           }
         ],
         "title": "Frequently Asked Questions",
         "enabled": true,
-        "subtitle": "Common questions about our manufacturing services"
+        "subtitle": "Common questions about our services"
       },
       "type": "faq",
       "title": "Frequently Asked Questions",
@@ -326,47 +287,37 @@
       "showInNavbar": false
     },
     {
-      "id": "infrastructure-1749667021515",
+      "id": "infrastructure-1749798753525",
       "data": {
         "items": [
           {
-            "title": "Brass Casting Facility",
-            "features": [
-              "10,000 sq ft production area",
-              "Automated brass casting machines with +/- 0.1mm tolerance",
-              "Specialized temperature control systems for precise melting and cooling",
-              "Dedicated quality control laboratory"
-            ],
-            "description": "Our state-of-the-art brass casting facility is equipped with high-precision casting equipment and cutting-edge temperature control systems. This facility allows us to produce a wide range of brass components with exceptional quality and consistency."
+            "name": "Manufacturing Plant A",
+            "description": "Our flagship manufacturing facility is a state-of-the-art plant equipped with the latest automation and production technologies. The plant covers 250,000 sq ft and houses multiple assembly lines for our core product lines.",
+            "specifications": "The plant features fully integrated robotic systems, advanced material handling equipment, and real-time production monitoring to ensure consistent quality and high efficiency. It is powered by a 5 MW cogeneration plant that provides both electricity and steam for the manufacturing processes."
           },
           {
-            "title": "Machining and Finishing Center",
-            "features": [
-              "20,000 sq ft production area",
-              "Multiple CNC lathes, mills, and grinding machines",
-              "Automated deburring and polishing systems",
-              "Dedicated inspection and metrology lab"
-            ],
-            "description": "The Machining and Finishing Center is equipped with advanced CNC machines and specialized finishing equipment. This facility enables us to perform complex machining operations and apply high-quality finishes to our brass products."
+            "name": "Warehouse and Distribution Center",
+            "description": "This 150,000 sq ft facility serves as our central hub for warehousing, inventory management, and distribution. It is equipped with high-density storage racking, automated retrieval systems, and a fleet of trucks for timely delivery to our customers.",
+            "specifications": "The warehouse features climate-controlled zones, barcode scanning, and a warehouse management system to maintain strict control over our inventory. It has 30 loading docks to enable efficient inbound and outbound logistics."
           },
           {
-            "title": "Warehouse and Logistics Hub",
-            "features": [
-              "50,000 sq ft storage capacity",
-              "Automated storage and retrieval systems",
-              "Temperature and humidity-controlled storage areas",
-              "Dedicated shipping and receiving docks"
-            ],
-            "description": "Our centralized warehouse and logistics hub ensures efficient storage, handling, and distribution of our brass products. This facility is designed to maintain optimal environmental conditions and facilitate seamless supply chain operations."
+            "name": "Research & Development Laboratory",
+            "description": "Our 20,000 sq ft R&D lab is home to a team of experienced engineers and technicians who are dedicated to continuous product innovation and process improvement. The lab is outfitted with a wide range of testing equipment and prototyping tools.",
+            "specifications": "The laboratory includes specialized testing chambers, precision measurement instruments, and rapid prototyping equipment such as 3D printers. It allows us to rigorously evaluate new designs, materials, and manufacturing techniques to stay ahead of the competition."
+          },
+          {
+            "name": "Energy-Efficient Cogeneration Plant",
+            "description": "To support the power needs of our manufacturing operations, we have installed a highly efficient 5 MW cogeneration plant on-site. This combined heat and power (CHP) system generates both electricity and steam, resulting in substantial energy savings and reduced environmental impact.",
+            "specifications": "The cogeneration plant utilizes natural gas-fired turbines to produce electricity. The waste heat from the turbines is then recovered and used to generate high-pressure steam, which is distributed throughout the manufacturing facility for various heating and process requirements. This integrated approach allows us to achieve an overall energy efficiency of over 80%."
           }
         ],
         "title": "Infrastructure & Facilities",
-        "enabled": true,
+        "enabled": false,
         "subtitle": "Modern facilities supporting our operations"
       },
       "type": "infrastructure",
       "title": "Infrastructure & Facilities",
-      "enabled": true,
+      "enabled": false,
       "showInNavbar": false
     }
   ]
