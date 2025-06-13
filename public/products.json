@@ -2,112 +2,184 @@
   "featured": [],
   "categories": [
     {
-      "id": "category-1698326400",
-      "name": "Brass Fasteners",
-      "image": "https://images.unsplash.com/photo-1563362303-1b6e8f6d6a49?auto=format&fit=crop&q=80&w=600",
+      "id": "category-1683480001",
+      "name": "Automotive Components",
+      "image": "https://images.unsplash.com/photo-1562772802-3f3b7b6e4c5a?auto=format&fit=crop&q=80&w=600",
       "products": [
         {
-          "id": "product-1698326401",
-          "name": "Brass Hex Nuts",
-          "image": "https://images.unsplash.com/photo-1581091359751-9e2d2a7e1d3d?auto=format&fit=crop&q=80&w=600",
-          "description": "Durable brass hex nuts suitable for various automotive and aerospace assemblies.",
+          "id": "product-1683480002",
+          "name": "CNC Machined Engine Block",
+          "image": "https://images.unsplash.com/photo-1596495572026-6b1c4d38b8a9?auto=format&fit=crop&q=80&w=600",
+          "description": "Precision-engineered engine block for enhanced performance.",
           "applications": [
-            "Automotive chassis",
-            "Aerospace structural components"
+            "Automotive Engines",
+            "Performance Upgrades"
           ],
           "specifications": [
-            "Standard sizes from M4 to M20",
-            "Corrosion-resistant finish"
+            "Material: Aluminum Alloy",
+            "Tolerance: ±0.01 mm"
           ]
         },
         {
-          "id": "product-1698326402",
-          "name": "Brass Bolts",
-          "image": "https://images.unsplash.com/photo-1581091359751-9e2d2a7e1d3d?auto=format&fit=crop&q=80&w=600",
-          "description": "Precision-engineered brass bolts ideal for high-stress environments in automotive and aerospace sectors.",
+          "id": "product-1683480003",
+          "name": "CNC Machined Brake Caliper",
+          "image": "https://images.unsplash.com/photo-1560605746-7e9b8e075f57?auto=format&fit=crop&q=80&w=600",
+          "description": "Durable brake caliper with high heat resistance.",
           "applications": [
-            "Engine components",
-            "Aircraft fittings"
+            "Vehicle Braking Systems",
+            "Performance Vehicles"
           ],
           "specifications": [
-            "Metric and imperial sizes",
-            "High tensile strength"
+            "Material: Cast Iron",
+            "Tolerance: ±0.005 mm"
           ]
         }
       ],
-      "description": "High-quality brass fasteners designed for aerospace and automotive applications."
+      "description": "High precision automotive components manufactured using CNC machining."
     },
     {
-      "id": "category-1698326403",
-      "name": "Brass Electrical Connectors",
-      "image": "https://images.unsplash.com/photo-1555119875-3fa6cbd4e7b1?auto=format&fit=crop&q=80&w=600",
+      "id": "category-1683480004",
+      "name": "Pneumatic Fittings",
+      "image": "https://images.unsplash.com/photo-1581589133473-3f5e5f3b6da4?auto=format&fit=crop&q=80&w=600",
       "products": [
         {
-          "id": "product-1698326404",
-          "name": "Brass Spark Plugs",
-          "image": "https://images.unsplash.com/photo-1579680217043-b82b9fcbdaef?auto=format&fit=crop&q=80&w=600",
-          "description": "High-performance brass spark plugs designed for efficiency and durability in combustion engines.",
+          "id": "product-1683480005",
+          "name": "Pneumatic Quick Connect Coupler",
+          "image": "https://images.unsplash.com/photo-1581589133460-9c0a9cbccf34?auto=format&fit=crop&q=80&w=600",
+          "description": "Quick connect coupler for easy pneumatic system integration.",
           "applications": [
-            "Gasoline engines",
-            "Aerospace propulsion systems"
+            "Pneumatic Tools",
+            "Manufacturing Automation"
           ],
           "specifications": [
-            "Heat range: 6 to 10",
-            "Thread size: M14"
+            "Material: Brass",
+            "Tolerance: ±0.02 mm"
           ]
         },
         {
-          "id": "product-1698326405",
-          "name": "Brass Terminals",
-          "image": "https://images.unsplash.com/photo-1563606712008-3a25108e8d54?auto=format&fit=crop&q=80&w=600",
-          "description": "Durable brass terminals for reliable electrical connections in various automotive applications.",
+          "id": "product-1683480006",
+          "name": "Pneumatic Push-to-Connect Fitting",
+          "image": "https://images.unsplash.com/photo-1581589134250-8f5b2b4b1885?auto=format&fit=crop&q=80&w=600",
+          "description": "Reliable push-to-connect fittings for quick assembly.",
           "applications": [
-            "Wiring harnesses",
-            "Control systems"
+            "Compressed Air Systems",
+            "Fluid Handling"
           ],
           "specifications": [
-            "Standard and custom sizes",
-            "Solder or crimp options available"
+            "Material: Nylon",
+            "Tolerance: ±0.015 mm"
           ]
         }
       ],
-      "description": "Reliable brass electrical connectors for aerospace and automotive electrical systems."
+      "description": "CNC machined pneumatic fittings for various applications."
     },
     {
-      "id": "category-1698326406",
-      "name": "Brass Fittings",
-      "image": "https://images.unsplash.com/photo-1602602461257-6e12f9c6f0e2?auto=format&fit=crop&q=80&w=600",
+      "id": "category-1683480007",
+      "name": "Hydraulic Fittings",
+      "image": "https://images.unsplash.com/photo-1581589134123-5b8c3e48d6d4?auto=format&fit=crop&q=80&w=600",
       "products": [
         {
-          "id": "product-1698326407",
-          "name": "Brass Couplings",
-          "image": "https://images.unsplash.com/photo-1581091359751-9e2d2a7e1d3d?auto=format&fit=crop&q=80&w=600",
-          "description": "Versatile brass couplings for connecting pipes and tubes in automotive and aerospace systems.",
+          "id": "product-1683480008",
+          "name": "Hydraulic Hose Fitting",
+          "image": "https://images.unsplash.com/photo-1581589134131-4f3c1f6c8d4c?auto=format&fit=crop&q=80&w=600",
+          "description": "Durable hose fittings designed for high-pressure hydraulic systems.",
           "applications": [
-            "Fluid transfer systems",
-            "Hydraulic systems"
+            "Hydraulic Machinery",
+            "Industrial Equipment"
           ],
           "specifications": [
-            "1/4\" to 2\" sizes",
-            "Pressure rating: up to 300 PSI"
+            "Material: Steel",
+            "Tolerance: ±0.01 mm"
           ]
         },
         {
-          "id": "product-1698326408",
-          "name": "Brass Elbows",
-          "image": "https://images.unsplash.com/photo-1549691096-5b1c9f35a3fb?auto=format&fit=crop&q=80&w=600",
-          "description": "Durable brass elbows for changing the direction of piping in automotive and aerospace applications.",
+          "id": "product-1683480009",
+          "name": "Hydraulic Adapter",
+          "image": "https://images.unsplash.com/photo-1581589134212-6c3c1e6c7e7a?auto=format&fit=crop&q=80&w=600",
+          "description": "Versatile hydraulic adapters for connecting various components.",
           "applications": [
-            "Exhaust systems",
-            "Fuel systems"
+            "Construction Equipment",
+            "Agricultural Machinery"
           ],
           "specifications": [
-            "90-degree and 45-degree angles",
-            "Standard and custom dimensions"
+            "Material: Stainless Steel",
+            "Tolerance: ±0.005 mm"
           ]
         }
       ],
-      "description": "Precision brass fittings engineered for high performance in automotive and aerospace applications."
+      "description": "Precision hydraulic fittings for heavy-duty applications."
+    },
+    {
+      "id": "category-1683480010",
+      "name": "Sanitary Fittings",
+      "image": "https://images.unsplash.com/photo-1581589134517-3c1f5b4b5b9d?auto=format&fit=crop&q=80&w=600",
+      "products": [
+        {
+          "id": "product-1683480011",
+          "name": "Sanitary Tri-Clamp Fitting",
+          "image": "https://images.unsplash.com/photo-1581589134315-5b8c1f4b8d8b?auto=format&fit=crop&q=80&w=600",
+          "description": "Easy-to-clean tri-clamp fittings for sanitary processing.",
+          "applications": [
+            "Food Processing",
+            "Beverage Production"
+          ],
+          "specifications": [
+            "Material: 304 Stainless Steel",
+            "Tolerance: ±0.01 mm"
+          ]
+        },
+        {
+          "id": "product-1683480012",
+          "name": "Sanitary Valve",
+          "image": "https://images.unsplash.com/photo-1581589134426-4f3c1f4b5b9e?auto=format&fit=crop&q=80&w=600",
+          "description": "Reliable valves for controlling fluid flow in sanitary applications.",
+          "applications": [
+            "Pharmaceutical Manufacturing",
+            "Dairy Industry"
+          ],
+          "specifications": [
+            "Material: 316 Stainless Steel",
+            "Tolerance: ±0.005 mm"
+          ]
+        }
+      ],
+      "description": "CNC machined sanitary fittings for food and beverage industries."
+    },
+    {
+      "id": "category-1683480013",
+      "name": "Electrical Components",
+      "image": "https://images.unsplash.com/photo-1581589134533-6c3d5f4b6d7d?auto=format&fit=crop&q=80&w=600",
+      "products": [
+        {
+          "id": "product-1683480014",
+          "name": "CNC Machined Connector",
+          "image": "https://images.unsplash.com/photo-1581589134553-5f3f8b4b5b8b?auto=format&fit=crop&q=80&w=600",
+          "description": "Durable connectors for electrical wiring systems.",
+          "applications": [
+            "Electrical Assemblies",
+            "Power Distribution"
+          ],
+          "specifications": [
+            "Material: Copper",
+            "Tolerance: ±0.005 mm"
+          ]
+        },
+        {
+          "id": "product-1683480015",
+          "name": "CNC Machined Switch Housing",
+          "image": "https://images.unsplash.com/photo-1581589134529-5b3e1f4b7b9a?auto=format&fit=crop&q=80&w=600",
+          "description": "Robust housing for electrical switches and controls.",
+          "applications": [
+            "Control Panels",
+            "Consumer Electronics"
+          ],
+          "specifications": [
+            "Material: ABS Plastic",
+            "Tolerance: ±0.02 mm"
+          ]
+        }
+      ],
+      "description": "Precision electrical components manufactured for reliability."
     }
   ]
 }
